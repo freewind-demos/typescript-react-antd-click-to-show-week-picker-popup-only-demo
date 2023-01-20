@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Click to Show Week Picker Popup Only Demo
 =================================
+
+关键是对WeekPicker进行巧妙的定制
 
 ```
 npm install
