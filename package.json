@@ -12,6 +12,7 @@
     "@types/react": "17.0.40",
     "@types/react-dom": "17.0.13",
     "@vitejs/plugin-react": "^3.0.1",
+    "ahooks": "^3.7.4",
     "antd": "5.0.5",
     "vite": "^4.0.4"
   }
